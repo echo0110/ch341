@@ -1,0 +1,1 @@
+cmd_/home/rpdzkj/ch34/CH341SER_LINUX/driver/modules.order := {   echo /home/rpdzkj/ch34/CH341SER_LINUX/driver/ch341.ko; :; } | awk '!x[$$0]++' - > /home/rpdzkj/ch34/CH341SER_LINUX/driver/modules.order

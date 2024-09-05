@@ -1,0 +1,1 @@
+cmd_/home/rpdzkj/ch34/CH341SER_LINUX/driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/rpdzkj/ch34/CH341SER_LINUX/driver/modules.order | scripts/mod/modpost     -o /home/rpdzkj/ch34/CH341SER_LINUX/driver/Module.symvers -e -i Module.symvers   -T -
